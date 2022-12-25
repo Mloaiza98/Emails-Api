@@ -26,5 +26,5 @@ Utilizacion de APIs
 
 
 ## Instalación 
-Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
+Este proyecto necesita de instalar las dependencias para funcionar de manera correcta
   
