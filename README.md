@@ -1,4 +1,4 @@
-# Drums
+# Emails
 
 ## Ejemplo en vivo
 - [¡Pruebalo!](https://mloaiza98.github.io/Emails-Api/)
