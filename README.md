@@ -21,7 +21,7 @@ Utilizacion de APIs
 ## Autor ✒️
 **Martin Loaiza W**
 
-* [mloaiza@gmail.com](mloaizaw@gmail.com)
+* [mloaiza@gmail.com](mailto:mloaizaw@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/martin-loaiza-wills-73341615b/)
 
 
